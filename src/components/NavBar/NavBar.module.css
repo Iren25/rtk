@@ -1,0 +1,14 @@
+.container{
+    background-color: rgb(197, 185, 167);
+    height: 60px;
+    top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 40px;
+    align-items: center;
+}
+.link{
+    color: rgb(117, 65, 65);
+    font-size: 25px;
+    text-decoration: none;
+}
